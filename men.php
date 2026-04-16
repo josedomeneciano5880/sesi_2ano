@@ -1,7 +1,7 @@
 <?php
 $dev = "ola mundo";
 $nome = "eu sou jose";
-
-echo $dev. " ". $nome;
+$descricao = "curso: tecnico em desenvolvemento de sistema.";
+echo $dev. " ", $nome,"\n", $descricao;
 
 ?>
